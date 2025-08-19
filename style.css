@@ -5,12 +5,12 @@
 
  @font-face {
     font-family: Weather;
-    src: url("fonts/PublicaSansRound-Bd.otf");
+    src: url("PublicaSansRound-Bd.otf");
   }
   
 @font-face {
   font-family: Shine;
-  src: url("fonts/ShineProReg.otf");
+  src: url("ShineProReg.otf");
 }
 
 html, body{
